@@ -1,1 +1,28 @@
 
+.heading{
+    text-align: center;
+}
+
+
+form{
+    display: flex;
+    justify-content: space-around;
+}
+
+form input{
+    width: 30%;
+    height: 25px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.task{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.task button{
+    height: 25px;
+
+}
